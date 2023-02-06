@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GonzalezMan4011
 - 👀 I’m interested in ... anything that has to do with technology!
 - 🌱 I’m currently learning ... almost all coding languages.
-- 💞️ I’m looking to collaborate on ... certian projects I find interesting and feel like they need some work.
+- 💞️ I’m looking to collaborate on ... certain projects I find interesting and feel like they need some work.
 - 📫 How to reach me ... @GonzalezMan4011 on Twitter
 
 <!---
